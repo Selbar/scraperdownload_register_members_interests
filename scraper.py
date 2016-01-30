@@ -5,7 +5,7 @@ import urlparse
 import datetime
 import re
 
-url = "http://www.publications.parliament.uk/pa/cm/cmregmem/110124/part1contents.htm"
+url = "http://www.publications.parliament.uk/pa/cm/cmregmem/150713/part1contents.htm"
 
 urlmainindex = "http://www.publications.parliament.uk/pa/cm/cmregmem.htm"
 
